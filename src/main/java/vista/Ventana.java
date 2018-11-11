@@ -7,10 +7,10 @@ public class Ventana {
 	public PanelLateral unnamed_PanelLateral_;
 
 	public Ventana() {
-		throw new UnsupportedOperationException();
+		
 	}
 
 	public void iniciarVentana() {
-		throw new UnsupportedOperationException();
+		
 	}
 }
